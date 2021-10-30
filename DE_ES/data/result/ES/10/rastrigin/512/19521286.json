@@ -1,0 +1,1522 @@
+{
+    "iteration 1": {
+        "best individual": [
+            3.01707,
+            -0.75882,
+            -3.81979,
+            -2.95358,
+            -1.47011,
+            1.20319,
+            -0.90563,
+            -0.90575,
+            0.75639,
+            2.06389
+        ],
+        "best fitness": 99.48,
+        "num of avaluation in current": 513
+    },
+    "iteration 2": {
+        "best individual": [
+            3.10286,
+            0.21884,
+            -1.94799,
+            -3.99699,
+            -0.9173,
+            1.96843,
+            -2.43823,
+            -2.12062,
+            0.26425,
+            2.03854
+        ],
+        "best fitness": 94.13,
+        "num of avaluation in current": 1025
+    },
+    "iteration 3": {
+        "best individual": [
+            2.15257,
+            -1.84391,
+            -2.00701,
+            -1.97226,
+            -1.43375,
+            3.94126,
+            -1.82435,
+            -1.13483,
+            0.13273,
+            1.04875
+        ],
+        "best fitness": 80.57,
+        "num of avaluation in current": 1537
+    },
+    "iteration 4": {
+        "best individual": [
+            2.15257,
+            -1.84391,
+            -2.00701,
+            -1.97226,
+            -1.43375,
+            3.94126,
+            -1.82435,
+            -1.13483,
+            0.13273,
+            1.04875
+        ],
+        "best fitness": 86.27,
+        "num of avaluation in current": 2049
+    },
+    "iteration 5": {
+        "best individual": [
+            2.88756,
+            -2.14394,
+            -0.18592,
+            -2.16016,
+            -1.922,
+            3.80121,
+            -0.88234,
+            -0.9755,
+            -0.12932,
+            -0.06904
+        ],
+        "best fitness": 69.27,
+        "num of avaluation in current": 2561
+    },
+    "iteration 6": {
+        "best individual": [
+            2.88756,
+            -2.14394,
+            -0.18592,
+            -2.16016,
+            -1.922,
+            3.80121,
+            -0.88234,
+            -0.9755,
+            -0.12932,
+            -0.06904
+        ],
+        "best fitness": 77.28,
+        "num of avaluation in current": 3073
+    },
+    "iteration 7": {
+        "best individual": [
+            2.88756,
+            -2.14394,
+            -0.18592,
+            -2.16016,
+            -1.922,
+            3.80121,
+            -0.88234,
+            -0.9755,
+            -0.12932,
+            -0.06904
+        ],
+        "best fitness": 70.5,
+        "num of avaluation in current": 3585
+    },
+    "iteration 8": {
+        "best individual": [
+            2.94681,
+            -2.18263,
+            -0.05479,
+            -2.10736,
+            -1.92525,
+            3.85837,
+            -1.12111,
+            -1.23249,
+            -0.04983,
+            -0.05714
+        ],
+        "best fitness": 66.06,
+        "num of avaluation in current": 4097
+    },
+    "iteration 9": {
+        "best individual": [
+            2.94681,
+            -2.18263,
+            -0.05479,
+            -2.10736,
+            -1.92525,
+            3.85837,
+            -1.12111,
+            -1.23249,
+            -0.04983,
+            -0.05714
+        ],
+        "best fitness": 69.03,
+        "num of avaluation in current": 4609
+    },
+    "iteration 10": {
+        "best individual": [
+            2.93098,
+            -2.04014,
+            -0.09351,
+            -1.87095,
+            -2.14441,
+            4.01281,
+            -1.05667,
+            -1.10932,
+            -0.07635,
+            -0.00798
+        ],
+        "best fitness": 53.26,
+        "num of avaluation in current": 5121
+    },
+    "iteration 11": {
+        "best individual": [
+            2.93098,
+            -2.04014,
+            -0.09351,
+            -1.87095,
+            -2.14441,
+            4.01281,
+            -1.05667,
+            -1.10932,
+            -0.07635,
+            -0.00798
+        ],
+        "best fitness": 59.94,
+        "num of avaluation in current": 5633
+    },
+    "iteration 12": {
+        "best individual": [
+            2.96477,
+            -1.98331,
+            -0.05252,
+            -1.96009,
+            -2.12985,
+            4.00474,
+            -1.06561,
+            -1.02866,
+            0.01599,
+            -0.00382
+        ],
+        "best fitness": 44.69,
+        "num of avaluation in current": 6145
+    },
+    "iteration 13": {
+        "best individual": [
+            2.96477,
+            -1.98331,
+            -0.05252,
+            -1.96009,
+            -2.12985,
+            4.00474,
+            -1.06561,
+            -1.02866,
+            0.01599,
+            -0.00382
+        ],
+        "best fitness": 46.55,
+        "num of avaluation in current": 6657
+    },
+    "iteration 14": {
+        "best individual": [
+            2.99375,
+            -2.03971,
+            -0.07656,
+            -1.95488,
+            -1.95966,
+            3.91547,
+            -1.00596,
+            -0.99537,
+            -0.00234,
+            0.01275
+        ],
+        "best fitness": 41.72,
+        "num of avaluation in current": 7169
+    },
+    "iteration 15": {
+        "best individual": [
+            2.99375,
+            -2.03971,
+            -0.07656,
+            -1.95488,
+            -1.95966,
+            3.91547,
+            -1.00596,
+            -0.99537,
+            -0.00234,
+            0.01275
+        ],
+        "best fitness": 43.04,
+        "num of avaluation in current": 7681
+    },
+    "iteration 16": {
+        "best individual": [
+            2.99862,
+            -1.98682,
+            0.00674,
+            -1.97388,
+            -1.9677,
+            3.96531,
+            -1.06104,
+            -0.99485,
+            0.02572,
+            -0.01391
+        ],
+        "best fitness": 40.07,
+        "num of avaluation in current": 8193
+    },
+    "iteration 17": {
+        "best individual": [
+            2.99862,
+            -1.98682,
+            0.00674,
+            -1.97388,
+            -1.9677,
+            3.96531,
+            -1.06104,
+            -0.99485,
+            0.02572,
+            -0.01391
+        ],
+        "best fitness": 40.46,
+        "num of avaluation in current": 8705
+    },
+    "iteration 18": {
+        "best individual": [
+            2.97981,
+            -1.9614,
+            0.03356,
+            -1.96957,
+            -1.97072,
+            3.99608,
+            -1.00438,
+            -1.00837,
+            -0.01724,
+            -0.02882
+        ],
+        "best fitness": 39.67,
+        "num of avaluation in current": 9217
+    },
+    "iteration 19": {
+        "best individual": [
+            3.01314,
+            -1.96719,
+            0.00489,
+            -1.94923,
+            -1.99444,
+            3.97042,
+            -1.00422,
+            -0.99142,
+            0.01134,
+            0.01391
+        ],
+        "best fitness": 39.5,
+        "num of avaluation in current": 9729
+    },
+    "iteration 20": {
+        "best individual": [
+            3.01314,
+            -1.96719,
+            0.00489,
+            -1.94923,
+            -1.99444,
+            3.97042,
+            -1.00422,
+            -0.99142,
+            0.01134,
+            0.01391
+        ],
+        "best fitness": 39.66,
+        "num of avaluation in current": 10241
+    },
+    "iteration 21": {
+        "best individual": [
+            2.9872,
+            -1.98256,
+            0.0053,
+            -1.97408,
+            -1.99267,
+            3.97528,
+            -1.01289,
+            -1.008,
+            0.0118,
+            -0.02594
+        ],
+        "best fitness": 39.13,
+        "num of avaluation in current": 10753
+    },
+    "iteration 22": {
+        "best individual": [
+            2.97654,
+            -2.012,
+            -0.00669,
+            -1.9754,
+            -2.00507,
+            3.96477,
+            -1.0057,
+            -0.99499,
+            0.01405,
+            0.00499
+        ],
+        "best fitness": 39.12,
+        "num of avaluation in current": 11265
+    },
+    "iteration 23": {
+        "best individual": [
+            2.97654,
+            -2.012,
+            -0.00669,
+            -1.9754,
+            -2.00507,
+            3.96477,
+            -1.0057,
+            -0.99499,
+            0.01405,
+            0.00499
+        ],
+        "best fitness": 39.3,
+        "num of avaluation in current": 11777
+    },
+    "iteration 24": {
+        "best individual": [
+            2.96421,
+            -2.00813,
+            -0.006,
+            -1.996,
+            -1.98045,
+            3.9787,
+            -0.99735,
+            -0.99821,
+            0.01652,
+            0.0059
+        ],
+        "best fitness": 39.05,
+        "num of avaluation in current": 12289
+    },
+    "iteration 25": {
+        "best individual": [
+            2.99671,
+            -1.99896,
+            -0.01255,
+            -1.98941,
+            -1.9948,
+            3.97608,
+            -0.97083,
+            -0.99102,
+            -0.0054,
+            -0.01112
+        ],
+        "best fitness": 39.03,
+        "num of avaluation in current": 12801
+    },
+    "iteration 26": {
+        "best individual": [
+            2.99671,
+            -1.99896,
+            -0.01255,
+            -1.98941,
+            -1.9948,
+            3.97608,
+            -0.97083,
+            -0.99102,
+            -0.0054,
+            -0.01112
+        ],
+        "best fitness": 39.05,
+        "num of avaluation in current": 13313
+    },
+    "iteration 27": {
+        "best individual": [
+            2.98708,
+            -1.98998,
+            -0.00227,
+            -1.99016,
+            -1.98911,
+            3.97934,
+            -0.97739,
+            -0.99094,
+            -0.00251,
+            -0.01006
+        ],
+        "best fitness": 38.89,
+        "num of avaluation in current": 13825
+    },
+    "iteration 28": {
+        "best individual": [
+            2.98708,
+            -1.98998,
+            -0.00227,
+            -1.99016,
+            -1.98911,
+            3.97934,
+            -0.97739,
+            -0.99094,
+            -0.00251,
+            -0.01006
+        ],
+        "best fitness": 38.93,
+        "num of avaluation in current": 14337
+    },
+    "iteration 29": {
+        "best individual": [
+            2.9853,
+            -1.99286,
+            0.00765,
+            -1.98912,
+            -1.99251,
+            3.97923,
+            -0.99129,
+            -1.00552,
+            -0.00778,
+            -0.00378
+        ],
+        "best fitness": 38.86,
+        "num of avaluation in current": 14849
+    },
+    "iteration 30": {
+        "best individual": [
+            2.98614,
+            -1.99262,
+            5e-05,
+            -1.97869,
+            -1.99649,
+            3.97443,
+            -0.99502,
+            -0.99693,
+            -0.00189,
+            -0.00624
+        ],
+        "best fitness": 38.85,
+        "num of avaluation in current": 15361
+    },
+    "iteration 31": {
+        "best individual": [
+            2.99052,
+            -1.99286,
+            -0.00604,
+            -1.98893,
+            -1.9919,
+            3.97378,
+            -1.00243,
+            -0.99978,
+            -0.00328,
+            0.0058
+        ],
+        "best fitness": 38.85,
+        "num of avaluation in current": 15873
+    },
+    "iteration 32": {
+        "best individual": [
+            2.99052,
+            -1.99286,
+            -0.00604,
+            -1.98893,
+            -1.9919,
+            3.97378,
+            -1.00243,
+            -0.99978,
+            -0.00328,
+            0.0058
+        ],
+        "best fitness": 38.87,
+        "num of avaluation in current": 16385
+    },
+    "iteration 33": {
+        "best individual": [
+            2.98681,
+            -1.99054,
+            -0.00486,
+            -1.98603,
+            -1.99047,
+            3.97751,
+            -0.99904,
+            -0.99413,
+            0.00597,
+            -0.00084
+        ],
+        "best fitness": 38.82,
+        "num of avaluation in current": 16897
+    },
+    "iteration 34": {
+        "best individual": [
+            2.98681,
+            -1.99054,
+            -0.00486,
+            -1.98603,
+            -1.99047,
+            3.97751,
+            -0.99904,
+            -0.99413,
+            0.00597,
+            -0.00084
+        ],
+        "best fitness": 38.83,
+        "num of avaluation in current": 17409
+    },
+    "iteration 35": {
+        "best individual": [
+            2.98528,
+            -1.98685,
+            0.00056,
+            -1.9891,
+            -1.98636,
+            3.97612,
+            -0.99658,
+            -0.99507,
+            0.00122,
+            0.00147
+        ],
+        "best fitness": 38.81,
+        "num of avaluation in current": 17921
+    },
+    "iteration 36": {
+        "best individual": [
+            2.98528,
+            -1.98685,
+            0.00056,
+            -1.9891,
+            -1.98636,
+            3.97612,
+            -0.99658,
+            -0.99507,
+            0.00122,
+            0.00147
+        ],
+        "best fitness": 38.82,
+        "num of avaluation in current": 18433
+    },
+    "iteration 37": {
+        "best individual": [
+            2.98533,
+            -1.9891,
+            0.00285,
+            -1.9906,
+            -1.99133,
+            3.98039,
+            -0.99518,
+            -0.99287,
+            -0.00256,
+            -0.00056
+        ],
+        "best fitness": 38.81,
+        "num of avaluation in current": 18945
+    },
+    "iteration 38": {
+        "best individual": [
+            2.98533,
+            -1.9891,
+            0.00285,
+            -1.9906,
+            -1.99133,
+            3.98039,
+            -0.99518,
+            -0.99287,
+            -0.00256,
+            -0.00056
+        ],
+        "best fitness": 38.81,
+        "num of avaluation in current": 19457
+    },
+    "iteration 39": {
+        "best individual": [
+            2.9841,
+            -1.99031,
+            0.00231,
+            -1.99069,
+            -1.98906,
+            3.97975,
+            -0.99579,
+            -0.99286,
+            -0.00129,
+            -0.00025
+        ],
+        "best fitness": 38.81,
+        "num of avaluation in current": 19969
+    },
+    "iteration 40": {
+        "best individual": [
+            2.98554,
+            -1.99034,
+            -0.00034,
+            -1.99077,
+            -1.98793,
+            3.98094,
+            -0.99656,
+            -0.99342,
+            -0.00148,
+            -0.00052
+        ],
+        "best fitness": 38.81,
+        "num of avaluation in current": 20481
+    },
+    "iteration 41": {
+        "best individual": [
+            2.98554,
+            -1.99034,
+            -0.00034,
+            -1.99077,
+            -1.98793,
+            3.98094,
+            -0.99656,
+            -0.99342,
+            -0.00148,
+            -0.00052
+        ],
+        "best fitness": 38.81,
+        "num of avaluation in current": 20993
+    },
+    "iteration 42": {
+        "best individual": [
+            2.98645,
+            -1.98953,
+            0.00047,
+            -1.99064,
+            -1.98831,
+            3.97923,
+            -0.99635,
+            -0.99429,
+            0.00065,
+            0.00012
+        ],
+        "best fitness": 38.81,
+        "num of avaluation in current": 21505
+    },
+    "iteration 43": {
+        "best individual": [
+            2.98523,
+            -1.99093,
+            -0.00038,
+            -1.98948,
+            -1.98872,
+            3.98013,
+            -0.99573,
+            -0.99477,
+            0.00092,
+            -0.00115
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 22017
+    },
+    "iteration 44": {
+        "best individual": [
+            2.98523,
+            -1.99093,
+            -0.00038,
+            -1.98948,
+            -1.98872,
+            3.98013,
+            -0.99573,
+            -0.99477,
+            0.00092,
+            -0.00115
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 22529
+    },
+    "iteration 45": {
+        "best individual": [
+            2.9854,
+            -1.98976,
+            0.00139,
+            -1.98996,
+            -1.98943,
+            3.97901,
+            -0.99565,
+            -0.99461,
+            -2e-05,
+            -0.00068
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 23041
+    },
+    "iteration 46": {
+        "best individual": [
+            2.98508,
+            -1.98936,
+            0.00088,
+            -1.98978,
+            -1.99068,
+            3.97995,
+            -0.99481,
+            -0.99594,
+            0.00027,
+            0.00024
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 23553
+    },
+    "iteration 47": {
+        "best individual": [
+            2.98508,
+            -1.98936,
+            0.00088,
+            -1.98978,
+            -1.99068,
+            3.97995,
+            -0.99481,
+            -0.99594,
+            0.00027,
+            0.00024
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 24065
+    },
+    "iteration 48": {
+        "best individual": [
+            2.98479,
+            -1.99086,
+            -0.00035,
+            -1.98982,
+            -1.98989,
+            3.97994,
+            -0.99486,
+            -0.99467,
+            0.00029,
+            -0.00016
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 24577
+    },
+    "iteration 49": {
+        "best individual": [
+            2.98479,
+            -1.99086,
+            -0.00035,
+            -1.98982,
+            -1.98989,
+            3.97994,
+            -0.99486,
+            -0.99467,
+            0.00029,
+            -0.00016
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 25089
+    },
+    "iteration 50": {
+        "best individual": [
+            2.98475,
+            -1.99003,
+            -0.00039,
+            -1.98978,
+            -1.9897,
+            3.97961,
+            -0.99504,
+            -0.99502,
+            0.00034,
+            0.00037
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 25601
+    },
+    "iteration 51": {
+        "best individual": [
+            2.98475,
+            -1.99003,
+            -0.00039,
+            -1.98978,
+            -1.9897,
+            3.97961,
+            -0.99504,
+            -0.99502,
+            0.00034,
+            0.00037
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 26113
+    },
+    "iteration 52": {
+        "best individual": [
+            2.98517,
+            -1.98988,
+            -0.00039,
+            -1.98972,
+            -1.98977,
+            3.97971,
+            -0.99484,
+            -0.99485,
+            0.0001,
+            0.00036
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 26625
+    },
+    "iteration 53": {
+        "best individual": [
+            2.98453,
+            -1.99011,
+            -6e-05,
+            -1.98981,
+            -1.98968,
+            3.98013,
+            -0.99479,
+            -0.99497,
+            -2e-05,
+            -0.00017
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 27137
+    },
+    "iteration 54": {
+        "best individual": [
+            2.98491,
+            -1.98977,
+            -0.00025,
+            -1.98972,
+            -1.98969,
+            3.97975,
+            -0.99495,
+            -0.99471,
+            0.00014,
+            -0.00022
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 27649
+    },
+    "iteration 55": {
+        "best individual": [
+            2.98491,
+            -1.98977,
+            -0.00025,
+            -1.98972,
+            -1.98969,
+            3.97975,
+            -0.99495,
+            -0.99471,
+            0.00014,
+            -0.00022
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 28161
+    },
+    "iteration 56": {
+        "best individual": [
+            2.98511,
+            -1.9899,
+            5e-05,
+            -1.9899,
+            -1.99003,
+            3.97999,
+            -0.99487,
+            -0.99481,
+            -4e-05,
+            -0.00018
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 28673
+    },
+    "iteration 57": {
+        "best individual": [
+            2.98511,
+            -1.9899,
+            5e-05,
+            -1.9899,
+            -1.99003,
+            3.97999,
+            -0.99487,
+            -0.99481,
+            -4e-05,
+            -0.00018
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 29185
+    },
+    "iteration 58": {
+        "best individual": [
+            2.98491,
+            -1.98981,
+            -5e-05,
+            -1.99,
+            -1.99009,
+            3.97976,
+            -0.99496,
+            -0.99501,
+            0.0,
+            -1e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 29697
+    },
+    "iteration 59": {
+        "best individual": [
+            2.98491,
+            -1.98981,
+            -5e-05,
+            -1.99,
+            -1.99009,
+            3.97976,
+            -0.99496,
+            -0.99501,
+            0.0,
+            -1e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 30209
+    },
+    "iteration 60": {
+        "best individual": [
+            2.98488,
+            -1.98992,
+            7e-05,
+            -1.98989,
+            -1.98993,
+            3.9799,
+            -0.9949,
+            -0.99495,
+            5e-05,
+            0.00011
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 30721
+    },
+    "iteration 61": {
+        "best individual": [
+            2.98488,
+            -1.98992,
+            7e-05,
+            -1.98989,
+            -1.98993,
+            3.9799,
+            -0.9949,
+            -0.99495,
+            5e-05,
+            0.00011
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 31233
+    },
+    "iteration 62": {
+        "best individual": [
+            2.9849,
+            -1.9899,
+            -1e-05,
+            -1.98987,
+            -1.98989,
+            3.97985,
+            -0.99492,
+            -0.99489,
+            7e-05,
+            7e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 31745
+    },
+    "iteration 63": {
+        "best individual": [
+            2.98483,
+            -1.98986,
+            4e-05,
+            -1.98996,
+            -1.98992,
+            3.97981,
+            -0.99497,
+            -0.99491,
+            1e-05,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 32257
+    },
+    "iteration 64": {
+        "best individual": [
+            2.98483,
+            -1.98986,
+            4e-05,
+            -1.98996,
+            -1.98992,
+            3.97981,
+            -0.99497,
+            -0.99491,
+            1e-05,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 32769
+    },
+    "iteration 65": {
+        "best individual": [
+            2.98483,
+            -1.98986,
+            4e-05,
+            -1.98996,
+            -1.98992,
+            3.97981,
+            -0.99497,
+            -0.99491,
+            1e-05,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 33281
+    },
+    "iteration 66": {
+        "best individual": [
+            2.98483,
+            -1.98989,
+            1e-05,
+            -1.98992,
+            -1.98991,
+            3.97979,
+            -0.99496,
+            -0.99494,
+            -6e-05,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 33793
+    },
+    "iteration 67": {
+        "best individual": [
+            2.98483,
+            -1.98993,
+            2e-05,
+            -1.98995,
+            -1.98993,
+            3.97977,
+            -0.99494,
+            -0.99497,
+            -2e-05,
+            -2e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 34305
+    },
+    "iteration 68": {
+        "best individual": [
+            2.98484,
+            -1.98993,
+            2e-05,
+            -1.98993,
+            -1.98992,
+            3.97978,
+            -0.99494,
+            -0.99494,
+            1e-05,
+            -2e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 34817
+    },
+    "iteration 69": {
+        "best individual": [
+            2.98484,
+            -1.98993,
+            2e-05,
+            -1.98993,
+            -1.98992,
+            3.97978,
+            -0.99494,
+            -0.99494,
+            1e-05,
+            -2e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 35329
+    },
+    "iteration 70": {
+        "best individual": [
+            2.98483,
+            -1.9899,
+            -0.0,
+            -1.98991,
+            -1.98988,
+            3.9798,
+            -0.99497,
+            -0.99494,
+            -1e-05,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 35841
+    },
+    "iteration 71": {
+        "best individual": [
+            2.98488,
+            -1.98991,
+            1e-05,
+            -1.98993,
+            -1.98993,
+            3.97978,
+            -0.99494,
+            -0.99494,
+            1e-05,
+            -3e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 36353
+    },
+    "iteration 72": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            -2e-05,
+            -1.98992,
+            -1.9899,
+            3.97978,
+            -0.99496,
+            -0.99494,
+            1e-05,
+            2e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 36865
+    },
+    "iteration 73": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            -2e-05,
+            -1.98992,
+            -1.9899,
+            3.97978,
+            -0.99496,
+            -0.99494,
+            1e-05,
+            2e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 37377
+    },
+    "iteration 74": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            -2e-05,
+            -1.9899,
+            -1.9899,
+            3.97978,
+            -0.99495,
+            -0.99496,
+            -2e-05,
+            1e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 37889
+    },
+    "iteration 75": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            -2e-05,
+            -1.9899,
+            -1.9899,
+            3.97978,
+            -0.99495,
+            -0.99496,
+            -2e-05,
+            1e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 38401
+    },
+    "iteration 76": {
+        "best individual": [
+            2.98487,
+            -1.98991,
+            -0.0,
+            -1.98992,
+            -1.98991,
+            3.97978,
+            -0.99495,
+            -0.99496,
+            -0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 38913
+    },
+    "iteration 77": {
+        "best individual": [
+            2.98487,
+            -1.98991,
+            -0.0,
+            -1.98992,
+            -1.98991,
+            3.97978,
+            -0.99495,
+            -0.99496,
+            -0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 39425
+    },
+    "iteration 78": {
+        "best individual": [
+            2.98486,
+            -1.98991,
+            1e-05,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99495,
+            -0.99496,
+            0.0,
+            -0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 39937
+    },
+    "iteration 79": {
+        "best individual": [
+            2.98486,
+            -1.98992,
+            0.0,
+            -1.98992,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            1e-05,
+            -0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 40449
+    },
+    "iteration 80": {
+        "best individual": [
+            2.98486,
+            -1.98992,
+            0.0,
+            -1.98992,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            1e-05,
+            -0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 40961
+    },
+    "iteration 81": {
+        "best individual": [
+            2.98485,
+            -1.98992,
+            -0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99497,
+            0.0,
+            -1e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 41473
+    },
+    "iteration 82": {
+        "best individual": [
+            2.98485,
+            -1.98992,
+            -0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99497,
+            0.0,
+            -1e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 41985
+    },
+    "iteration 83": {
+        "best individual": [
+            2.98486,
+            -1.98991,
+            -0.0,
+            -1.98992,
+            -1.98991,
+            3.97979,
+            -0.99496,
+            -0.99496,
+            0.0,
+            -1e-05
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 42497
+    },
+    "iteration 84": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            -0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            0.0,
+            -0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 43009
+    },
+    "iteration 85": {
+        "best individual": [
+            2.98486,
+            -1.98991,
+            0.0,
+            -1.98991,
+            -1.98991,
+            3.97979,
+            -0.99496,
+            -0.99496,
+            0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 43521
+    },
+    "iteration 86": {
+        "best individual": [
+            2.98486,
+            -1.98991,
+            0.0,
+            -1.98991,
+            -1.98991,
+            3.97979,
+            -0.99496,
+            -0.99496,
+            0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 44033
+    },
+    "iteration 87": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            -0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 44545
+    },
+    "iteration 88": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            -0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 45057
+    },
+    "iteration 89": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            -0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            -0.0,
+            -0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 45569
+    },
+    "iteration 90": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            -0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            -0.0,
+            -0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 46081
+    },
+    "iteration 91": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            -0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 46593
+    },
+    "iteration 92": {
+        "best individual": [
+            2.98486,
+            -1.98991,
+            -0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            -0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 47105
+    },
+    "iteration 93": {
+        "best individual": [
+            2.98486,
+            -1.98991,
+            -0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            -0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 47617
+    },
+    "iteration 94": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 48129
+    },
+    "iteration 95": {
+        "best individual": [
+            2.98485,
+            -1.98991,
+            0.0,
+            -1.98991,
+            -1.98991,
+            3.97978,
+            -0.99496,
+            -0.99496,
+            0.0,
+            0.0
+        ],
+        "best fitness": 38.8,
+        "num of avaluation in current": 48641
+    }
+}
